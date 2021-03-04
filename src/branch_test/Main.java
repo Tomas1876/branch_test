@@ -10,9 +10,7 @@ public class Main {
            System.out.println("71summernight");
            System.out.println("hyunjin");
            System.out.println("stay1 YOUNGHOON");
-           System.out.println("I'm trying!");
-           System.out.println("tired....");
-           System.out.println("tired....");
+           System.out.println("newHee");
         
         System.out.println("This is stay Fork and Fetch Practice now");
                 System.out.println("fetch and merger retry");
