@@ -12,6 +12,8 @@ public class Main {
            System.out.println("stay1 YOUNGHOON");
         
         System.out.println("This is stay Fork and Fetch Practice now");
+                System.out.println("fetch and merger retry");
+
     }
 
 }
